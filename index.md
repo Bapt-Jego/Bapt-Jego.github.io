@@ -5,7 +5,7 @@ title: "About"
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
 
-<img src="/baptiste.JPG" alt="Baptiste Jego" style="width: 180px; height: 250px; object-fit: cover; border-radius: 50%;">
+<img src="/baptiste.JPG" alt="Baptiste Jego" style="width: 180px; height: 225px; object-fit: cover; border-radius: 50%;">
 
 <div>
 
