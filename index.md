@@ -11,8 +11,10 @@ title: "About"
 
 # Baptiste Jego
 
-**PhD student in Astrophysics**
+PhD student in Astrophysics
+
 Observatoire astronomique de Strasbourg (ObAS)
+
 CNRS · Strasbourg University
 
 </div>
