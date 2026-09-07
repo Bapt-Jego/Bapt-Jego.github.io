@@ -17,6 +17,8 @@ Observatoire astronomique de Strasbourg (ObAS)
 
 CNRS · Strasbourg University
 
+[ORCID](https://orcid.org/0009-0006-6399-7858) · [SciX](https://scixplorer.org/public-libraries/75cAYIzOTIe5NRT0cFQdRQ) · [GitHub](https://github.com/Bapt-Jego)
+
 </div>
 
 </div>
