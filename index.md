@@ -1,8 +1,7 @@
 ---
-
 layout: page
 title: "About"
---------------
+---
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
 
