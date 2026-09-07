@@ -1,9 +1,8 @@
 ---
-
 layout: page
 title: "Publications & Talks"
 permalink: /publications/
--------------------------
+---
 
 ## First-author publications
 
