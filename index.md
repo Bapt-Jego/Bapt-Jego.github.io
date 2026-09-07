@@ -1,8 +1,7 @@
 ---
-
 layout: page
 title: "About"
---------------
+---
 
 # Baptiste Jego
 
