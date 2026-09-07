@@ -1,3 +1,9 @@
 title: "Baptiste Jego"
 description: "PhD student in astrophysics"
+
 theme: minima
+
+header_pages:
+  - index.md
+  - publications.md
+  - experience.md
