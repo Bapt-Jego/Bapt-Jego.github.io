@@ -1,9 +1,8 @@
 ---
-
 layout: page
 title: "Additional Experience"
 permalink: /experience/
------------------------
+---
 
 ## Teaching
 
