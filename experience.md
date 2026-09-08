@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Additional Experience"
+title: "Teaching & Mentoring, Epistemology"
 permalink: /experience/
 ---
 
