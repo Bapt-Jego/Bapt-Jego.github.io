@@ -37,7 +37,7 @@ title: "About"
 
 I am a PhD student in astrophysics at the Observatoire astronomique de Strasbourg (ObAS), working on the connection between **galaxy evolution and the cosmic web**.
 
-My research focuses on how the large-scale environment of galaxies — in particular their position relative to cosmic filaments — influences star formation and galaxy evolution across cosmic time.
+My research focuses on the connection between the large-scale structure of the Universe and star formation in galaxies, with the broader goal of understanding the physics beyond halo mass. My current projects investigate how the large-scale environment of galaxies—particularly their position relative to cosmic filaments—influences star formation and galaxy evolution across cosmic time. I also work on incorporating non-linear effects into HOD models of the cosmic infrared background (CIB), with the aim of placing robust constraints on the star formation efficiency of galaxies through accurate theoretical modelling.
 
 Alongside my research in astrophysics, I have a strong interest in **epistemology and the sociology of scientific practice**, particularly questions related to physical structuralism and objectivity.
 
