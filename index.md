@@ -19,13 +19,14 @@ title: "About"
 </p>
 
 <p>
+  <a href="mailto:baptiste.jego@astro.unistra.fr">baptiste.jego@astro.unistra.fr</a>
+  ·
   <a href="https://orcid.org/0009-0006-6399-7858">ORCID</a>
   ·
   <a href="https://scixplorer.org/public-libraries/75cAYIzOTIe5NRT0cFQdRQ">SciX</a>
   ·
   <a href="https://github.com/Bapt-Jego">GitHub</a>
 </p>
-
 
   </div>
 
