@@ -2,7 +2,7 @@
 
 ---
 
-@import "minima";
+@import "{{ site.theme }}";
 
 /* ==============================
 Baptiste Jego — Custom theme
@@ -41,8 +41,6 @@ line-height: 1.7;
 max-width: 1000px;
 }
 
-/* Header */
-
 .site-header {
 background: var(--bg);
 border-top: none;
@@ -63,8 +61,6 @@ font-weight: 500;
 color: var(--accent);
 }
 
-/* Headings */
-
 h1,
 h2,
 h3 {
@@ -83,8 +79,6 @@ margin-bottom: 1rem;
 font-size: 1.65rem;
 }
 
-/* Links */
-
 a {
 color: var(--accent);
 text-decoration: none;
@@ -93,8 +87,6 @@ text-decoration: none;
 a:hover {
 text-decoration: underline;
 }
-
-/* Profile */
 
 .profile {
 display: flex;
@@ -125,15 +117,11 @@ margin-bottom: 10px;
 margin-bottom: 12px;
 }
 
-/* Horizontal rules */
-
 hr {
 border: 0;
 border-top: 1px solid var(--border);
 margin: 2.5rem 0;
 }
-
-/* Mobile */
 
 @media screen and (max-width: 600px) {
 .site-header {
