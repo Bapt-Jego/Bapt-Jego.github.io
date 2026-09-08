@@ -3,17 +3,13 @@ layout: page
 title: "About"
 ---
 
-layout: page
-title: "About"
---------------
-
 <div class="profile">
 
   <img src="/baptiste.JPG" alt="Baptiste Jego">
 
   <div class="profile-text">
 
-```
+
 <h1>Baptiste Jego</h1>
 
 <p>
@@ -29,7 +25,7 @@ title: "About"
   ·
   <a href="https://github.com/Bapt-Jego">GitHub</a>
 </p>
-```
+
 
   </div>
 
