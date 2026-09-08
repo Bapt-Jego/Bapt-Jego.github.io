@@ -4,18 +4,12 @@
 
 @import "minima";
 
-/* ==============================
-Baptiste Jego — Custom theme
-============================== */
-
 :root {
 --bg: #ffffff;
 --text: #242424;
 --muted: #666666;
 --accent: #2563eb;
 --border: #e5e7eb;
---card: #f8fafc;
---header-bg: rgba(255, 255, 255, 0.92);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -25,10 +19,10 @@ Baptiste Jego — Custom theme
 --muted: #9ca3af;
 --accent: #60a5fa;
 --border: #374151;
---card: #1f2937;
---header-bg: rgba(17, 24, 39, 0.92);
 }
 }
+
+/* General */
 
 html {
 scroll-behavior: smooth;
@@ -37,46 +31,37 @@ scroll-behavior: smooth;
 body {
 background: var(--bg);
 color: var(--text);
-font-family:
--apple-system,
-BlinkMacSystemFont,
-"Segoe UI",
-Helvetica,
-Arial,
-sans-serif;
+font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 line-height: 1.7;
-transition: background 0.25s ease, color 0.25s ease;
 }
 
 .wrapper {
 max-width: 1000px;
 }
 
+/* Header */
+
 .site-header {
-background: var(--header-bg);
+background: var(--bg);
 border-top: none;
 border-bottom: 1px solid var(--border);
-backdrop-filter: blur(10px);
-position: sticky;
-top: 0;
-z-index: 100;
 }
 
 .site-title {
-font-weight: 650;
-letter-spacing: -0.02em;
 color: var(--text) !important;
+font-weight: 650;
 }
 
 .site-nav .page-link {
 color: var(--muted);
 font-weight: 500;
-transition: color 0.2s ease;
 }
 
 .site-nav .page-link:hover {
 color: var(--accent);
 }
+
+/* Headings */
 
 h1,
 h2,
@@ -100,6 +85,8 @@ h3 {
 font-size: 1.2rem;
 }
 
+/* Links */
+
 a {
 color: var(--accent);
 text-decoration: none;
@@ -109,9 +96,38 @@ a:hover {
 text-decoration: underline;
 }
 
-img[alt="Baptiste Jego"] {
-box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+/* Profile */
+
+.profile {
+display: flex;
+align-items: flex-start;
+gap: 30px;
+margin-bottom: 40px;
 }
+
+.profile img {
+width: 150px;
+height: 150px;
+object-fit: cover;
+border-radius: 50%;
+flex-shrink: 0;
+box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+}
+
+.profile-text {
+padding-top: 5px;
+}
+
+.profile-text h1 {
+margin-top: 0;
+margin-bottom: 10px;
+}
+
+.profile-text p {
+margin-bottom: 12px;
+}
+
+/* Horizontal rules */
 
 hr {
 border: 0;
@@ -119,23 +135,23 @@ border-top: 1px solid var(--border);
 margin: 2.5rem 0;
 }
 
-.post-content p {
-margin-bottom: 1.1rem;
-}
-
-.post-content strong {
-font-weight: 650;
-}
-
-code {
-background: var(--card);
-border: 1px solid var(--border);
-border-radius: 5px;
-}
+/* Mobile */
 
 @media screen and (max-width: 600px) {
+
 .site-header {
 position: relative;
+}
+
+.profile {
+flex-direction: column;
+align-items: flex-start;
+gap: 20px;
+}
+
+.profile img {
+width: 130px;
+height: 130px;
 }
 
 h1 {
@@ -150,43 +166,4 @@ font-size: 1.4rem;
 padding-left: 1rem;
 padding-right: 1rem;
 }
-}
-
-/* ---------- Profile ---------- */
-
-.profile {
-  display: flex;
-  align-items: flex-start;
-  gap: 30px;
-  margin-bottom: 40px;
-}
-
-.profile img {
-  width: 150px;
-  height: 150px;
-  object-fit: cover;
-  border-radius: 50%;
-  flex-shrink: 0;
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
-}
-
-.profile-text {
-  padding-top: 5px;
-}
-
-.profile-text h1 {
-  margin-top: 0;
-  margin-bottom: 10px;
-}
-
-.profile-text p {
-  margin-bottom: 12px;
-}
-
-@media screen and (max-width: 600px) {
-  .profile {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 20px;
-  }
 }
