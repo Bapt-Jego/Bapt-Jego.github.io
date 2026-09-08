@@ -2,6 +2,8 @@
 
 ---
 
+@import "minima";
+
 /* ==============================
 Baptiste Jego — Custom theme
 ============================== */
@@ -28,8 +30,6 @@ Baptiste Jego — Custom theme
 }
 }
 
-/* ---------- General ---------- */
-
 html {
 scroll-behavior: smooth;
 }
@@ -51,8 +51,6 @@ transition: background 0.25s ease, color 0.25s ease;
 .wrapper {
 max-width: 1000px;
 }
-
-/* ---------- Header ---------- */
 
 .site-header {
 background: var(--header-bg);
@@ -80,8 +78,6 @@ transition: color 0.2s ease;
 color: var(--accent);
 }
 
-/* ---------- Headings ---------- */
-
 h1,
 h2,
 h3 {
@@ -104,8 +100,6 @@ h3 {
 font-size: 1.2rem;
 }
 
-/* ---------- Links ---------- */
-
 a {
 color: var(--accent);
 text-decoration: none;
@@ -115,21 +109,15 @@ a:hover {
 text-decoration: underline;
 }
 
-/* ---------- Profile image ---------- */
-
 img[alt="Baptiste Jego"] {
 box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
 }
-
-/* ---------- Horizontal rules ---------- */
 
 hr {
 border: 0;
 border-top: 1px solid var(--border);
 margin: 2.5rem 0;
 }
-
-/* ---------- Publication / content blocks ---------- */
 
 .post-content p {
 margin-bottom: 1.1rem;
@@ -139,15 +127,11 @@ margin-bottom: 1.1rem;
 font-weight: 650;
 }
 
-/* ---------- Code ---------- */
-
 code {
 background: var(--card);
 border: 1px solid var(--border);
 border-radius: 5px;
 }
-
-/* ---------- Mobile ---------- */
 
 @media screen and (max-width: 600px) {
 .site-header {
