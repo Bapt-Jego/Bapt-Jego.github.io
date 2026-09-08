@@ -52,23 +52,19 @@ Observatoire astronomique de Strasbourg (ObAS), CNRS, Strasbourg University
 
 **2023–2024 — M2 Master's degree in Epistemology**
 ENS Paris-Saclay & Strasbourg University
-*Obtained with the greatest honours*
 
 **2022–2023 — M2 Master's degree in Astrophysics**
 ENS Paris-Saclay & Strasbourg University
-*Obtained with the greatest honours*
 
 **2021–2022 — M1 Master's degree in Fundamental Physics**
 ENS Paris-Saclay & Paris-Saclay University
-*Obtained with the greatest honours*
 
 **2020–2021 — L3 Bachelor's degree in Fundamental Physics**
 ENS Paris-Saclay & Paris-Saclay University
-*Obtained with the greatest honours*
 
 **2020–2021 — L3 Bachelor's degree in Mathematics**
 ENS Paris-Saclay & University of Angers
-*Correspondence courses — obtained with the greatest honours*
+*Correspondence courses*
 
 **2018–2020 — L1–L2 Competitive Exam Preparation**
 Physics, Mathematics, Engineering, Chemistry & Computer Science
