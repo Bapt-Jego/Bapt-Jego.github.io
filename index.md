@@ -3,23 +3,35 @@ layout: page
 title: "About"
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+layout: page
+title: "About"
+--------------
 
-<img src="/baptiste.JPG" alt="Baptiste Jego" style="width: 180px; height: 225px; object-fit: cover; border-radius: 50%;">
+<div class="profile">
 
-<div>
+  <img src="/baptiste.JPG" alt="Baptiste Jego">
 
-# Baptiste Jego
+  <div class="profile-text">
 
-PhD student in Astrophysics
+```
+<h1>Baptiste Jego</h1>
 
-Observatoire astronomique de Strasbourg (ObAS)
+<p>
+  <strong>PhD student in Astrophysics</strong><br>
+  Observatoire astronomique de Strasbourg (ObAS)<br>
+  CNRS · Strasbourg University
+</p>
 
-CNRS · Strasbourg University
+<p>
+  <a href="https://orcid.org/0009-0006-6399-7858">ORCID</a>
+  ·
+  <a href="https://scixplorer.org/public-libraries/75cAYIzOTIe5NRT0cFQdRQ">SciX</a>
+  ·
+  <a href="https://github.com/Bapt-Jego">GitHub</a>
+</p>
+```
 
-[ORCID](https://orcid.org/0009-0006-6399-7858) · [SciX](https://scixplorer.org/public-libraries/75cAYIzOTIe5NRT0cFQdRQ) · [GitHub](https://github.com/Bapt-Jego)
-
-</div>
+  </div>
 
 </div>
 
