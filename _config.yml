@@ -2,6 +2,7 @@ title: "Baptiste Jego"
 description: "PhD student in astrophysics"
 
 theme: minima
+stylesheet: /assets/css/style.css
 
 header_pages:
   - index.md
