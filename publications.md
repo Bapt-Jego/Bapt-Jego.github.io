@@ -10,8 +10,8 @@ permalink: /publications/
 *Non-linear halo bias for accurate modelling of cosmic infrared background anisotropies*
 2026 — Submitted to A&A. [DOI] soon
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Extension of the standard halo model for the cosmic infrared background (CIB) by incorporating a scale-dependent, non-linear correction to the halo bias. This improves the modelling of CIB clustering by up to $\sim 30%$ on intermediate scales and removes systematic biases in MCMC analyses, enabling unbiased recovery of star-formation parameters in dark matter halos.
-
+Extension of the standard halo model for the cosmic infrared background (CIB) by incorporating a scale-dependent, non-linear correction to the halo bias. This improves the modelling of CIB clustering by up to $\sim 30%$ on intermediate scales and removes systematic biases in MCMC analyses, enabling unbiased recovery of star-formation parameters in dark matter halos.
+<br />
 **Baptiste Jego**, Matthieu Béthermin, Katarina Kraljic, Clotilde Laigle, et al.
 *The impact of cosmic filaments on starburst galaxies across cosmic times*
 2026 — A&A. [DOI](https://doi.org/10.1051/0004-6361/202659601)
