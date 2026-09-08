@@ -4,13 +4,12 @@ description: "PhD student in astrophysics"
 theme: minima
 
 header_pages:
-
-* index.md
-* publications.md
-* experience.md
+  - index.md
+  - publications.md
+  - experience.md
 
 minima:
-skin: classic
+  skin: classic
 
 sass:
-style: compressed
+  style: compressed
