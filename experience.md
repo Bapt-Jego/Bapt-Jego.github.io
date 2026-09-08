@@ -56,6 +56,10 @@ Upcoming talk.
 **2025 — Jardin des Sciences, Strasbourg University**
 Outreach conference on the **history of large-scale structure in the Universe**.
 
+**2024 — Epistemology Master's thesis, Strasbourg University**
+*On the Notion of the Large-Scale Structure of the Universe*
+[HAL](https://hal.science/hal-04819746)
+
 ## Community & Outreach
 
 **2024–2027 — PhTea, ObAS, CNRS / Strasbourg University**
