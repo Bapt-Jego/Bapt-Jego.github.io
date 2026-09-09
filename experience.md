@@ -4,6 +4,8 @@ title: "Teaching & Mentoring, Epistemology"
 permalink: /experience/
 ---
 
+---
+
 ## Teaching
 
 **2024–2027 — Strasbourg University**
@@ -26,6 +28,8 @@ permalink: /experience/
 **2021 — Tutoring for students with special educational needs**
 
 15 students, 20 hours.
+
+---
 
 ## Supervision & Mentoring
 
@@ -59,6 +63,8 @@ Outreach conference on the **history of large-scale structure in the Universe**.
 **2024 — Epistemology Master's thesis, Strasbourg University**
 *On the Notion of the Large-Scale Structure of the Universe*
 [HAL](https://hal.science/hal-04819746)
+
+---
 
 ## Community & Outreach
 
