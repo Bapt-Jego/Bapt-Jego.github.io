@@ -40,7 +40,7 @@ I am a PhD student in astrophysics at the Observatoire astronomique de Strasbour
 
 My research focuses on the connection between the large-scale structure of the Universe and star formation in galaxies, with the broader goal of understanding the physics beyond halo mass. My current projects investigate how the large-scale environment of galaxies, particularly their position relative to cosmic filaments, influences star formation and galaxy evolution across cosmic time. I also work on incorporating non-linear effects into HOD models of the cosmic infrared background (CIB), with the aim of placing robust constraints on the star formation efficiency of galaxies through accurate theoretical modelling.
 
-Alongside my research in astrophysics, I have a strong interest in **epistemology and the sociology of scientific practice**, particularly questions related to physical structuralism and objectivity.
+Alongside my research in astrophysics, I have a strong interest in **epistemology and the sociology of scientific practice**, particularly questions related to physical structuralism and objectivity in astrophysics.
 
 ---
 
@@ -63,9 +63,9 @@ ENS Paris-Saclay & Paris-Saclay University
 ENS Paris-Saclay & Paris-Saclay University
 
 **2020–2021 — L3 Bachelor's degree in Mathematics**
-ENS Paris-Saclay & University of Angers
+University of Angers 
 *Correspondence courses*
 
 **2018–2020 — L1–L2 Competitive Exam Preparation**
-Physics, Mathematics, Engineering, Chemistry & Computer Science
-PTSI/PT Chevrollier, Angers
+Physics, Mathematics, Engineering, Chemistry & Computer Science 
+Chevrollier, Angers
