@@ -49,6 +49,8 @@ permalink: /experience/
 *Seeing and understanding the cosmic web: two approaches to reveal the structure of the Universe*
 10-day research project.
 
+---
+
 ## Epistemology & Science Communication
 
 Alongside my research in astrophysics, I am interested in the epistemology and sociology of scientific practice, particularly in questions of **objectivity, robustness and validation in astrophysics**.
