@@ -4,13 +4,15 @@ title: "Publications & Talks"
 permalink: /publications/
 ---
 
+---
+
 ## First-author publications
 
 **Baptiste Jego**, Matthieu Béthermin, Katarina Kraljic, et al.
 *Non-linear halo bias for accurate modelling of cosmic infrared background anisotropies*
 2026 — Submitted to A&A. [DOI] soon
 
-Extension of the standard halo model for the cosmic infrared background (CIB) by incorporating a scale-dependent, non-linear correction to the halo bias. This improves the modelling of CIB clustering by up to $\sim 30%$ on intermediate scales and removes systematic biases in MCMC analyses, enabling unbiased recovery of star-formation parameters in dark matter halos.
+  * Extension of the standard halo model for the cosmic infrared background (CIB) by incorporating a scale-dependent, non-linear correction to the halo bias. This improves the modelling of CIB clustering by up to $\sim 30%$ on intermediate scales and removes systematic biases in MCMC analyses, enabling unbiased recovery of star-formation parameters in dark matter halos.
 
 <br />
 
@@ -18,7 +20,7 @@ Extension of the standard halo model for the cosmic infrared background (CIB) by
 *The impact of cosmic filaments on starburst galaxies across cosmic times*
 2026 — A&A. [DOI](https://doi.org/10.1051/0004-6361/202659601)
 
-Combined analysis of SIMBA simulations and COSMOS-Web data showing that proximity to cosmic filaments modulates star-formation activity over $0.5 < z < 2$. Starburst galaxies are found closer to filaments than main-sequence galaxies at high redshift ($z > 1$), and farther away at low redshift ($z < 1$).
+  * Combined analysis of SIMBA simulations and COSMOS-Web data showing that proximity to cosmic filaments modulates star-formation activity over $0.5 < z < 2$. Starburst galaxies are found closer to filaments than main-sequence galaxies at high redshift ($z > 1$), and farther away at low redshift ($z < 1$).
 
 <br />
 
@@ -54,6 +56,7 @@ Reconstruction of the star-formation history over $0 < z < 2$ through tomographi
 
 <br />
 
+---
 
 ## Co-authored publications
 
@@ -89,6 +92,7 @@ Characterization of the average far-infrared properties of Euclid-selected star-
 
 <br />
 
+---
 
 ## Non-peer-reviewed work
 
@@ -100,6 +104,7 @@ Conceptual and historical study of the notion of large-scale structure in the Un
 
 <br />
 
+---
 
 # Talks
 
