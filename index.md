@@ -36,9 +36,9 @@ title: "About"
 
 ## Research
 
-I am a PhD student in astrophysics at the Observatoire astronomique de Strasbourg (ObAS), working on the connection between **galaxy evolution and the cosmic web**.
+I am a PhD student in astrophysics at the Observatoire astronomique de Strasbourg (ObAS), working on the connection between **star-formation and the large-scale structure of the Universe across cosmic times**.
 
-My research focuses on the connection between the large-scale structure of the Universe and star formation in galaxies, with the broader goal of understanding the physics beyond halo mass. My current projects investigate how the large-scale environment of galaxies, particularly their position relative to cosmic filaments, influences star formation and galaxy evolution across cosmic time. I also work on incorporating non-linear effects into HOD models of the cosmic infrared background (CIB), with the aim of placing robust constraints on the star formation efficiency of galaxies through accurate theoretical modelling.
+My research focuses on the connection between the large-scale structure of the Universe and star formation in galaxies, with the broader goal of understanding the physics beyond halo mass. My current projects investigate how the large-scale environment of galaxies, particularly their position relative to cosmic filaments, influences star formation and galaxy evolution across cosmic time. Importantly, I also work on incorporating non-linear effects into HOD models of the cosmic infrared background (CIB), with the aim of placing robust constraints on the star formation efficiency of galaxies through accurate theoretical modelling. In particular, this research focuses on galaxies from cosmic noon ($z\sim2$) to today ($z=0$).
 
 Alongside my research in astrophysics, I have a strong interest in **epistemology and the sociology of scientific practice**, particularly questions related to physical structuralism and objectivity in astrophysics.
 
@@ -48,7 +48,7 @@ Alongside my research in astrophysics, I have a strong interest in **epistemolog
 
 **2024–2027 — Ph.D. in Astrophysics**
 Observatoire astronomique de Strasbourg (ObAS), CNRS, Strasbourg University
-*Ongoing*
+*Ongoing - note that French PhD grants last 3 years*
 
 **2023–2024 — M2 Master's degree in Epistemology**
 ENS Paris-Saclay & Strasbourg University
