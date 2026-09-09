@@ -27,8 +27,7 @@ permalink: /publications/
 **Baptiste Jego**, Katarina Kraljic, Matthieu Béthermin, Romeel Davé
 *Star-forming galaxies in the cosmic web in the last 11 Gyr*
 2026 — A&A. [DOI](https://doi.org/10.1051/0004-6361/202557368)
-
-Using the SIMBA cosmological simulation, this work quantifies how star formation depends on position in the cosmic web over the last 11 Gyr at fixed stellar mass. At high redshift ($z = 2, 3$), galaxies near filaments show enhanced star formation and gas accretion, while at low redshift star formation is suppressed at intermediate distances from filaments before recovering closer to the filament spine.
+  * Using the SIMBA cosmological simulation, this work quantifies how star formation depends on position in the cosmic web over the last 11 Gyr at fixed stellar mass. At high redshift ($z = 2, 3$), galaxies near filaments show enhanced star formation and gas accretion, while at low redshift star formation is suppressed at intermediate distances from filaments before recovering closer to the filament spine.
 
 <br />
 
