@@ -5,7 +5,7 @@ title: "About"
 
 <div class="profile">
 
-  <img src="/baptiste.JPG" alt="Baptiste Jego">
+  <img src="/Baptiste_Jego.png" alt="Baptiste Jego">
 
   <div class="profile-text">
 
