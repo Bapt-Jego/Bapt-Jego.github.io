@@ -52,24 +52,28 @@ Alongside my research in astrophysics, I have a strong interest in **epistemolog
 
 **2024–2027 — Ph.D. in Astrophysics**
 Observatoire astronomique de Strasbourg (ObAS), CNRS, Strasbourg University
-*Ongoing - note that French PhD grants last 3 years*
+*The Link between Star Formation and the Large-Scale Structure of the Universe across Cosmic Times*
+Advisors: Matthieu Béthermin and Katarina Kraljic
 
-**2023–2024 — M2 Master's degree in Epistemology**
+**2023–2024 — Master's degree in Epistemology**
+ENS Paris-Saclay & Strasbourg University
+*On the Notion of the Large-Scale Structure of the Universe*
+Advisor: Matthias Dörries
+
+**2021–2023 — Master's degree in Astrophysics**
 ENS Paris-Saclay & Strasbourg University
 
-**2022–2023 — M2 Master's degree in Astrophysics**
-ENS Paris-Saclay & Strasbourg University
+*2023 — Max Planck Institute for Astrophysics, Garching*
+*Quantifying the Effect of Non-Halo Large-Scale Structures on Gravitational Lensing*
+Advisors: Simona Vegetti and Giulia Despali
 
-**2021–2022 — M1 Master's degree in Fundamental Physics**
+*2022 — University of Oxford*
+*Constraining Models for the Cosmic Infrared Background through Cross-Correlations*
+Advisor: David Alonso
+
+**2020–2021 — Bachelor's degree in Fundamental Physics**
 ENS Paris-Saclay & Paris-Saclay University
 
-**2020–2021 — L3 Bachelor's degree in Fundamental Physics**
-ENS Paris-Saclay & Paris-Saclay University
-
-**2020–2021 — L3 Bachelor's degree in Mathematics**
-University of Angers 
+**2020–2021 — Bachelor's degree in Mathematics**
+University of Angers
 *Correspondence courses*
-
-**2018–2020 — L1–L2 Competitive Exam Preparation**
-Physics, Mathematics, Engineering, Chemistry & Computer Science 
-Chevrollier, Angers
