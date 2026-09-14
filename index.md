@@ -50,21 +50,21 @@ Alongside my research in astrophysics, I have a strong interest in **epistemolog
 
 ## Education
 
-**2024–2027 — Ph.D. in Astrophysics**
+**2024–2027 — Ph.D. in Astrophysics**,
 Observatoire astronomique de Strasbourg (ObAS), CNRS, Strasbourg University
-*The Link between Star Formation and the Large-Scale Structure of the Universe across Cosmic Times*
-Advisors: Matthieu Béthermin and Katarina Kraljic
+  * *The Link between Star Formation and the Large-Scale Structure of the Universe across Cosmic Times*
+  * Advisors: Matthieu Béthermin and Katarina Kraljic
 
 <br />
 
-**2023–2024 — Master's degree in Epistemology**
+**2023–2024 — Master's degree in Epistemology**,
 ENS Paris-Saclay & Strasbourg University
-*On the Notion of the Large-Scale Structure of the Universe*
-Advisor: Matthias Dörries
+  * *On the Notion of the Large-Scale Structure of the Universe*
+  * Advisor: Matthias Dörries
 
 <br />
 
-**2021–2023 — Master's degree in Astrophysics**
+**2021–2023 — Master's degree in Astrophysics**,
 ENS Paris-Saclay & Strasbourg University
 
   * *2023 — Max Planck Institute for Astrophysics, Garching*
@@ -77,11 +77,11 @@ ENS Paris-Saclay & Strasbourg University
 
 <br />
 
-**2020–2021 — Bachelor's degree in Fundamental Physics**
+**2020–2021 — Bachelor's degree in Fundamental Physics**,
 ENS Paris-Saclay & Paris-Saclay University
 
 <br />
 
-**2020–2021 — Bachelor's degree in Mathematics**
+**2020–2021 — Bachelor's degree in Mathematics**,
 University of Angers
 *Correspondence courses*
