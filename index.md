@@ -5,7 +5,10 @@ title: "About"
 
 <div class="profile">
 
-  <img src="/Baptiste_Jego.png" alt="Baptiste Jego">
+  <a href="https://annaandmaxime.fr" target="_blank" rel="noopener noreferrer">
+    <img src="/Baptiste_Jego.png" alt="Baptiste Jego"
+         title="Photo by Anna & Maxime">
+  </a>
 
   <div class="profile-text">
 
