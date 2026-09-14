@@ -5,31 +5,32 @@ title: "About"
 
 <div class="profile">
 
-  <a href="https://annaandmaxime.fr" target="_blank" rel="noopener noreferrer">
-    <img src="/Baptiste_Jego.png" alt="Baptiste Jego"
-         title="Photo by Anna & Maxime">
-  </a>
+  <div class="profile-photo">
+    <img src="/Baptiste_Jego.png" alt="Baptiste Jego">
+    <div class="photo-credit">
+      Photo by <a href="https://annaandmaxime.fr" target="_blank" rel="noopener noreferrer">Anna & Maxime</a>
+    </div>
+  </div>
 
   <div class="profile-text">
 
+    <h1>Baptiste Jego</h1>
 
-<h1>Baptiste Jego</h1>
+    <p>
+      <strong>PhD student in Astrophysics</strong><br>
+      Observatoire astronomique de Strasbourg (ObAS)<br>
+      CNRS · Strasbourg University
+    </p>
 
-<p>
-  <strong>PhD student in Astrophysics</strong><br>
-  Observatoire astronomique de Strasbourg (ObAS)<br>
-  CNRS · Strasbourg University
-</p>
-
-<p>
-  <a href="mailto:baptiste.jego@astro.unistra.fr">baptiste.jego@astro.unistra.fr</a>
-  ·
-  <a href="https://orcid.org/0009-0006-6399-7858">ORCID</a>
-  ·
-  <a href="https://scixplorer.org/public-libraries/75cAYIzOTIe5NRT0cFQdRQ">SciX</a>
-  ·
-  <a href="https://github.com/Bapt-Jego">GitHub</a>
-</p>
+    <p>
+      <a href="mailto:baptiste.jego@astro.unistra.fr">baptiste.jego@astro.unistra.fr</a>
+      ·
+      <a href="https://orcid.org/0009-0006-6399-7858">ORCID</a>
+      ·
+      <a href="https://scixplorer.org/public-libraries/75cAYIzOTIe5NRT0cFQdRQ">SciX</a>
+      ·
+      <a href="https://github.com/Bapt-Jego">GitHub</a>
+    </p>
 
   </div>
 
