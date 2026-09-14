@@ -104,6 +104,16 @@ flex-shrink: 0;
 box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
 }
 
+.profile > a {
+text-decoration: none;
+border: none;
+}
+
+.profile > a:hover {
+text-decoration: none;
+border: none;
+}
+
 .profile-text {
 padding-top: 5px;
 }
