@@ -55,24 +55,32 @@ Observatoire astronomique de Strasbourg (ObAS), CNRS, Strasbourg University
 *The Link between Star Formation and the Large-Scale Structure of the Universe across Cosmic Times*
 Advisors: Matthieu Béthermin and Katarina Kraljic
 
+<br />
+
 **2023–2024 — Master's degree in Epistemology**
 ENS Paris-Saclay & Strasbourg University
 *On the Notion of the Large-Scale Structure of the Universe*
 Advisor: Matthias Dörries
 
+<br />
+
 **2021–2023 — Master's degree in Astrophysics**
 ENS Paris-Saclay & Strasbourg University
 
-*2023 — Max Planck Institute for Astrophysics, Garching*
-*Quantifying the Effect of Non-Halo Large-Scale Structures on Gravitational Lensing*
-Advisors: Simona Vegetti and Giulia Despali
+  * *2023 — Max Planck Institute for Astrophysics, Garching*
+  * *Quantifying the Effect of Non-Halo Large-Scale Structures on Gravitational Lensing*
+  * Advisors: Simona Vegetti and Giulia Despali
 
-*2022 — University of Oxford*
-*Constraining Models for the Cosmic Infrared Background through Cross-Correlations*
-Advisor: David Alonso
+  * *2022 — University of Oxford*
+  * *Constraining Models for the Cosmic Infrared Background through Cross-Correlations*
+  * Advisor: David Alonso
+
+<br />
 
 **2020–2021 — Bachelor's degree in Fundamental Physics**
 ENS Paris-Saclay & Paris-Saclay University
+
+<br />
 
 **2020–2021 — Bachelor's degree in Mathematics**
 University of Angers
