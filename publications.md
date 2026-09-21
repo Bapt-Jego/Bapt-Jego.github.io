@@ -10,7 +10,7 @@ permalink: /publications/
 
 **Baptiste Jego**, Matthieu Béthermin, Katarina Kraljic, Athanasia Gkogkou et al.
 *Non-linear halo bias for accurate modelling of cosmic infrared background anisotropies*
-2026 — Submitted to A&A. [DOI] soon
+2026 — Submitted to A&A. [DOI](https://doi.org/10.48550/arXiv.2609.22057)
   * Extension of the standard halo model for the cosmic infrared background (CIB) by incorporating a scale-dependent, non-linear correction to the halo bias. This improves the modelling of CIB clustering by up to $\sim 30%$ on intermediate scales and removes systematic biases in MCMC analyses, enabling unbiased recovery of star-formation parameters in dark matter halos.
 
 <br />
