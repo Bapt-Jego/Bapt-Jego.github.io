@@ -8,6 +8,7 @@ header_pages:
   - index.md
   - publications.md
   - experience.md
+  - Epistemology.md
 
 minima:
   skin: classic
