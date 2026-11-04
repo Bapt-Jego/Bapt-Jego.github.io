@@ -54,6 +54,13 @@ permalink: /publications/
 
 ## Co-authored publications
 
+**Amy Wayland et al. (incl. Baptiste Jego)**
+*Joint measurements of thermal Sunyaev-Zel'dovich and cosmic infrared background cross-correlations with cosmic shear*
+2026 — In review. [DOI](https://doi.org/10.48550/arXiv:2609.31774)
+  * Measurement of the cross-correlation between weak lensing and the thermal Sunyaev–Zel’dovich effect using DES and Planck, with a physically motivated treatment of cosmic infrared background contamination. I contributed to the scientific discussion and manuscript development.
+
+<br />
+
 **Jiakang Han et al. (incl. Baptiste Jego)**
 *Euclid: Inferring star-formation history via cross-correlations of photometric clustering and shear with the cosmic infrared background*
 2026 — In review. [DOI](https://doi.org/10.48550/arXiv.2607.19290)
@@ -99,22 +106,22 @@ permalink: /publications/
 
 ## 2026
 
-**Euclid Galaxy Evolution Meeting** — Napoli
-Long talk on Jego et al. (2026a,b).
+**The impact of cosmic filaments on star-forming galaxies up to $z \sim 2$** — *Filaments in the Multi-scale Universe*, IPMU, Tokyo, Japan  
+*Contributed oral presentation.* Combined analysis of SIMBA simulations and COSMOS-Web observations showing how the position of galaxies within the cosmic web modulates star-formation activity at $0.5 < z < 2$, with a redshift-dependent reversal of the relationship between starbursts and filaments.
 
-**Euclid France Meeting** — Strasbourg
-Long talk on Jego et al. (2026a,b).
+**The impact of cosmic filaments on star-forming galaxies up to $z \sim 2$** — *EAS Annual Meeting*, Lausanne, Switzerland  
+*Contributed oral presentation.* Investigation of the connection between star-formation activity and cosmic-web environment across cosmic time, combining cosmological simulations and observations from COSMOS-Web.
 
-**EAS Meeting** — Lausanne
-Long talk on Jego et al. (2026a,b).
+**Toward cosmic web reconstruction and star-formation studies with Euclid** — *Euclid Galaxy Evolution Near and Far*, Napoli, Italy  
+*Contributed oral presentation.* Observational and theoretical study of the role of cosmic filaments in regulating star formation, highlighting the redshift dependence of environmental effects on starburst galaxies.
 
-**Filaments in the Multi-scale Universe** — IPMU, Tokyo
-Long talk on Jego et al. (2026a,b).
+**Star-forming galaxies in the cosmic web** — *Euclid France Meeting*, Strasbourg, France  
+*Contributed oral presentation.* Results on the connection between galaxy star-formation activity and cosmic-web environment, with a focus on the complementarity between cosmological simulations and Euclid-era observational studies.
 
 ## 2025
 
-**SF2A** — Toulouse
-Poster and flash talk on Jego et al. (2023a,b; 2026a).
+**The star formation history in the last 10 billion years from CIB cross-correlations** — *Euclid Spain Meeting*, Tenerife, Spain  
+*Contributed oral presentation.* Constraints on the cosmic star-formation history from tomographic cross-correlations between the cosmic infrared background and galaxy clustering and weak-lensing measurements, with a focus on applications to Euclid and the CIBx work package.
 
-**Euclid Spain Meeting** — Tenerife
-Presentation of results and Euclid prospects for Jego et al. (2023a,b) and CIBx work package.
+**Star formation at Large Scales with Euclid ans simulations** — *SF2A*, Toulouse, France  
+*Contributed poster and flash talk.* Analysis of the dependence of galaxy star formation and gas accretion on cosmic-web environment using the SIMBA cosmological simulation, revealing a redshift-dependent influence of filaments at fixed stellar mass. Prospects for CIB studies with Euclid data.
