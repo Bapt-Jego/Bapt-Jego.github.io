@@ -33,19 +33,23 @@ permalink: /experience/
 
 ## Supervision & Mentoring
 
-**2026 — Jeanne Buriaux & Léa Martin**, M1 Physics students, ObAS
+**2027 — TBD**, Bsc Physics students, ObAS
+*Galaxy evolution in the geometry of the cosmic web from simulations and observations*
+10-day research project.
+
+**2026 — Jeanne Buriaux & Léa Martin**, Msc Physics students, ObAS
 *The large-scale distribution of dark matter halos and galaxies*
 1-month research project.
 
-**2026 — Pierre Suaud & Titouan Le Guillois**, M1 Physics students, ObAS
+**2026 — Pierre Suaud & Titouan Le Guillois**, Msc Physics students, ObAS
 *Validation of the extension of the SIDES galaxy simulation to the radio domain*
 1-month research project.
 
-**2026 — Brieuc Erre**, M1 Epistemology student, ObAS
+**2026 — Brieuc Erre**, Msc Epistemology student, ObAS
 *Robustness and objectivity: how do astrophysicists evaluate the validity of their results?*
 10-day research project.
 
-**2026 — Léa Martin & Thomas De Gaillande**, L3 Physics students, ObAS
+**2026 — Léa Martin & Thomas De Gaillande**, Bsc Physics students, ObAS
 *Seeing and understanding the cosmic web: two approaches to reveal the structure of the Universe*
 10-day research project.
 
@@ -57,7 +61,6 @@ Alongside my research in astrophysics, I am interested in the epistemology and s
 
 **2026 — Archives Henri Poincaré, Strasbourg**
 *On the notion of objectivity in astrophysics.*
-Upcoming talk.
 
 **2025 — Jardin des Sciences, Strasbourg University**
 Outreach conference on the **history of large-scale structure in the Universe**.
